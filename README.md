@@ -11,4 +11,6 @@ This bot includes:
 - Features Page
 - 404 Page
 
+**Note:** This project has been archived.
+
 ##### Copyright © 2020-2021 DijxCloud Platform. All rights reserved.
